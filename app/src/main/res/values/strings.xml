@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FriendsForeverProject</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_link">Don\'t have an account? Register</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_register">Register</string>
+    <string name="label_name">Name:</string>
+    <string name="label_email">Email:</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_bio">Write a short bio</string>
+    <string name="btn_update">Update Profile</string>
+    <string name="default_event_title">Event Title</string>
+    <string name="default_event_date">Aug 01, 2025 • 18:00</string>
+    <string name="default_event_description">Event description here…</string>
+    <string name="btn_rsvp">RSVP</string>
+    <string name="toast_rsvp_success">RSVP confirmed!</string>
+    <string name="toast_rsvp_error">Failed to RSVP. Try again.</string>
+</resources>

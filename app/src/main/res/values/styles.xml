@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Bumble-inspired button style -->
+    <style name="BumbleButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/bumble_yellow</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+
+</resources>

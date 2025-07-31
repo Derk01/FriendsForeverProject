@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592076756670",
+    "project_id": "forever-friends-app",
+    "storage_bucket": "forever-friends-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592076756670:android:52054248b85f3e912c70ef",
+        "android_client_info": {
+          "package_name": "com.example.friendsforeverproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBByDgW3CkKs9ZH9UUEU45J7D4O62dXQHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
