@@ -1,3 +1,10 @@
+/**
+ * File name: Post.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Java class used in the Friends Forever Android app.
+ */
+
 package com.example.friendsforeverproject;
 
 import com.google.firebase.Timestamp;

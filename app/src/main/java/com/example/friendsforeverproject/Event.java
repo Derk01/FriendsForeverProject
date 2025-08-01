@@ -1,3 +1,10 @@
+/**
+ * File name: Event.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Model class representing an event.
+ */
+
 package com.example.friendsforeverproject;
 
 import com.google.firebase.Timestamp;

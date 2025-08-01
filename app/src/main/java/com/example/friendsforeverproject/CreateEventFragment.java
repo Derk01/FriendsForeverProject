@@ -1,3 +1,10 @@
+/**
+ * File name: CreateEventFragment.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Fragment for creating a new event.
+ */
+
 package com.example.friendsforeverproject;
 
 import android.app.DatePickerDialog;

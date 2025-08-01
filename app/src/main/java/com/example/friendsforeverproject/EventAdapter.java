@@ -1,3 +1,10 @@
+/**
+ * File name: EventAdapter.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Adapter for displaying events in a RecyclerView.
+ */
+
 package com.example.friendsforeverproject;
 
 import android.content.Context;

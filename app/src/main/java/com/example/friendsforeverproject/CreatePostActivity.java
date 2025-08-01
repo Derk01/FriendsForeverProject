@@ -1,3 +1,10 @@
+/**
+ * File name: CreatePostActivity.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Activity for creating a new post.
+ */
+
 package com.example.friendsforeverproject;
 
 import android.app.Activity;

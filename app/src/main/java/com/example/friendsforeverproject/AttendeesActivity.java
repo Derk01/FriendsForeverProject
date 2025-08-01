@@ -1,3 +1,10 @@
+/**
+ * File name: AttendeesActivity.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Activity for displaying users who have RSVP'd to an event.
+ */
+
 package com.example.friendsforeverproject;
 
 import android.os.Bundle;

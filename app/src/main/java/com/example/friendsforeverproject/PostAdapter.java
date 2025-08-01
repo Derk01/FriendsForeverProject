@@ -1,3 +1,10 @@
+/**
+ * File name: PostAdapter.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Java class used in the Friends Forever Android app.
+ */
+
 package com.example.friendsforeverproject;
 
 import android.content.Context;

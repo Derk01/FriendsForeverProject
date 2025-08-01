@@ -1,3 +1,10 @@
+/**
+ * File name: ChatActivity.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Handles real-time chat between users.
+ */
+
 package com.example.friendsforeverproject;
 
 import android.os.Bundle;

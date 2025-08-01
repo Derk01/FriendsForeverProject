@@ -1,3 +1,10 @@
+/**
+ * File name: EventsFragment.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Fragment displaying a list of events with RSVP options.
+ */
+
 package com.example.friendsforeverproject;
 
 import android.os.Bundle;

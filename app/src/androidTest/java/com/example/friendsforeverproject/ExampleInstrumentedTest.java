@@ -1,3 +1,10 @@
+/**
+ * File name: ExampleInstrumentedTest.java
+ * Author: Derek Morales
+ * Date: 2025-08-01
+ * Description: Instrumented test for Android components.
+ */
+
 package com.example.friendsforeverproject;
 
 import android.content.Context;
